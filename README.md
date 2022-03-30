@@ -3,8 +3,6 @@
 ## About me
 > `$ FULL STACK DEVELOPER`
 
-> `$ DEVELOPING IN WÜRTH ES`
-
 ## Technology Skills & Frameworks
 
 <img align="left" alt="php" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
