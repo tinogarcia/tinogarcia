@@ -1,21 +1,30 @@
-### Hi, my name is Tino 👨🏽‍💻
+### Hi, my name is Tino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-## About me
-> `$ FULL STACK DEVELOPER`
+#### :man_technologist: &nbsp;About Me :
+> `$ FULL STACK DEVELOPER` </br></br>
+> <a href="https://www.linkedin.com/in/tinogarciaolivares/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
-## Technology Skills & Frameworks
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=tinogarcia&style=flat-square&color=blue" alt=""></p> -->
 
-<img align="left" alt="php" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="html" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="css" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="mysql" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="ionic" width="35px" src="https://user-images.githubusercontent.com/7395922/117731416-5fa65080-b1ee-11eb-9d0f-d9b2d75b3454.png" />
-<img align="center" alt="magento2" width="35px" src="https://user-images.githubusercontent.com/7395922/117732313-f3c4e780-b1ef-11eb-8951-20e6f96cc91c.png" />
-</br>
+#### 🛠 &nbsp;Languages and Tools :
 
-## Interest
+<p>
+<img src="https://img.shields.io/badge/-HTML-red"/>&nbsp;
+<img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp;
+<img src="https://img.shields.io/badge/-PHP-purple"/>&nbsp;
+<img src="https://img.shields.io/badge/-Magento-orange"/>&nbsp;
+<img src="https://img.shields.io/badge/-VUE-green"/>&nbsp;
+<img src="https://img.shields.io/badge/-Laravel-purple"/>&nbsp;
+</p>
+
+#### 📓 Interest
 
 - Magento 2 Backend Development ⚙️
 - APP Mobile 📱
 - Clean Code & Best Practices ⌨️
+
+<!--#### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tinogarcia&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinogarcia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
