@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/-Magento-orange"/>&nbsp;
 <img src="https://img.shields.io/badge/-VUE-green"/>&nbsp;
 <img src="https://img.shields.io/badge/-Laravel-purple"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Angular-red"/>&nbsp;
 </p>
 
 #### 📓 Interest
