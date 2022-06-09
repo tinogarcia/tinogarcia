@@ -1,4 +1,4 @@
-### Hi, my name is Tino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi, my name is Tino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 #### :man_technologist: &nbsp;About Me :
 > `$ FULL STACK DEVELOPER` </br></br>
