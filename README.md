@@ -15,9 +15,8 @@
 <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp;
 <img src="https://img.shields.io/badge/-PHP-purple"/>&nbsp;
 <img src="https://img.shields.io/badge/-Magento-orange"/>&nbsp;
-<img src="https://img.shields.io/badge/-VUE-green"/>&nbsp;
+<img src="https://img.shields.io/badge/-REACT-blue"/>&nbsp;
 <img src="https://img.shields.io/badge/-Laravel-purple"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Angular-red"/>&nbsp;
 </p>
 
 #### 📓 Interest
